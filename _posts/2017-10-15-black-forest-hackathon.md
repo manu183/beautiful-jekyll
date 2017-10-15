@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Blackforest Hackathon 2017!
+image: /img/bfh.png
 tags: [hackathon, black forest, digital assistant]
 ---
 
 Last weekend I participated in my first hackathon in Offenburg, Germany. The [Blackforest Hackthon](http://www.blackforest-hackathon.com)'s topic was to create a digital assistant. Our goal was to develop an assistant that could recognize people via face recognition and display certain information according to the person's priorities.
-
-![black forest hackathon 2017](/img/bfh.png)
 
 After having some issues with OpenCV's face detector, we decided to move on with dlib's detector and train an own SVM instead of using OpenCV's predefined modules. Even with few training images and a shallow machine learning approach, we already had some good results as shown in the image.
 
