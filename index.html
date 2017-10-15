@@ -1,9 +1,24 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: "Hi, I'm Manuel"
+subtitle: Computer Science Student / Sports Fan / Machine Learning / Computer Vision
+css: "/css/index.css"
+meta-title: "Manuel Lang / Computer Science student at KIT"
+meta-description: "Computer Science student focusing on Artificial Intelligence and Robotics interested in state-of-the-art technologies, sports, books and travelling."
 use-site-title: true
+bigimg:
+  - "/img/hockenheimring-2016.jpg" : "Formula 1, Hockenheim, Germany (2016)"
+  - "/img/lindau-2015.jpg" : "Lindau, Germany (2015)"
+  - "/img/jamaica-2015.jpeg" : "Treasure Beach, Jamaica (2015)"
+  - "/img/nyc-2014.jpeg" : "New York City, NY, USA (2014)"
+  - "/img/daytona-beach.jpeg" : "Daytona Beach, FL, USA (2014)" 
 ---
+
+<div class="list-filters">
+  <a href="/" class="list-filter filter-selected">All posts</a>
+  <a href="/popular" class="list-filter">Most Popular</a>
+  <a href="/tutorials" class="list-filter">Tutorials</a>
+</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
