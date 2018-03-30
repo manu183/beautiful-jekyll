@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding Chemistry 2017!
+title: Coding Chemistry 2017
 image: /img/codingchemistry.jpg
 tags: [hackathon, BASF, chemistry]
 ---
