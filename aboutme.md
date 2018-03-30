@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I?
 ---
 
-My name is Manuel Lang and I am Computer Science student at Karlsruhe Institute of Technology (KIT) focusing on Artificial Intelligence and Robotics.
+My name is Manuel Lang and I am Computer Science student at [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/english/index.php) focusing on Artificial Intelligence and Robotics.
 
 In my free time I love playing and watching sports (soccer, handball, basketball, hockey, skiing, etc.), reading books and playing around with some coding stuff. Currently I am working with TensorFlow to implement some funny things with state-of-the-art deep learning algorithms.
 
