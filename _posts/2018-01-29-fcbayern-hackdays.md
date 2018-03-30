@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FC Bayern Hackdays!
+title: FC Bayern Hackdays
 image: /img/fcb.png
 tags: [hackathon, FC Bayern, soccer, digitalization]
 ---

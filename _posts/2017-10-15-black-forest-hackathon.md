@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blackforest Hackathon 2017!
+title: Blackforest Hackathon 2017
 image: /img/bfh.png
 tags: [hackathon, black forest, digital assistant]
 ---
