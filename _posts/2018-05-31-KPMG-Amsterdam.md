@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KPMG Ideation Challenge World Finals
-image: /img/nextiteration.jpg
+image: /img/kpmg.png
 tags: [hackathon, augmented reality, AR, amsterdam, KPMG]
 ---
 
